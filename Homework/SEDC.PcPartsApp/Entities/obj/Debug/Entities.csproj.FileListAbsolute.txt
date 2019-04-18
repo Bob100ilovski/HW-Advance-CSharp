@@ -1,0 +1,12 @@
+C:\Users\BS\Desktop\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Entities\bin\Debug\Entities.dll
+C:\Users\BS\Desktop\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Entities\bin\Debug\Entities.pdb
+C:\Users\BS\Desktop\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\BS\Desktop\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\BS\Desktop\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Entities\obj\Debug\Entities.dll
+C:\Users\BS\Desktop\sedc7-06-csharpadvanced-master\g4\Homework\SEDC.PcPartsApp\Entities\obj\Debug\Entities.pdb
+C:\Users\BS\Desktop\Homework\SEDC.PcPartsApp\Entities\bin\Debug\Entities.dll
+C:\Users\BS\Desktop\Homework\SEDC.PcPartsApp\Entities\bin\Debug\Entities.pdb
+C:\Users\BS\Desktop\Homework\SEDC.PcPartsApp\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\BS\Desktop\Homework\SEDC.PcPartsApp\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\BS\Desktop\Homework\SEDC.PcPartsApp\Entities\obj\Debug\Entities.dll
+C:\Users\BS\Desktop\Homework\SEDC.PcPartsApp\Entities\obj\Debug\Entities.pdb

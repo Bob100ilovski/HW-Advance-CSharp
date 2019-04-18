@@ -1,0 +1,6 @@
+C:\Users\BS\Desktop\Homework\SEDC.PcPartsApp\Services\bin\Debug\Services.dll
+C:\Users\BS\Desktop\Homework\SEDC.PcPartsApp\Services\bin\Debug\Services.pdb
+C:\Users\BS\Desktop\Homework\SEDC.PcPartsApp\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\BS\Desktop\Homework\SEDC.PcPartsApp\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\BS\Desktop\Homework\SEDC.PcPartsApp\Services\obj\Debug\Services.dll
+C:\Users\BS\Desktop\Homework\SEDC.PcPartsApp\Services\obj\Debug\Services.pdb
